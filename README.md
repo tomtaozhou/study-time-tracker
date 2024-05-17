@@ -1,1 +1,1 @@
-# study-time-tracker
+# Study Time Tracker
